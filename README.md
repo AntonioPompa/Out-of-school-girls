@@ -7,5 +7,5 @@ The key task is to help  develop a statistical algorithm that can predict the nu
 
 2.	DISE and Census data (dise_census_training.csv): IDinsight has cleaned and merged DISE and Census data for all villages. Note that DISE data is available from three rounds of the surveys and each column entry corresponds with a specific round of survey.
 
-3.	ASER (aser_data.csv): Collected by ASER in 2018, this dataset has the average OOSGs in villages within a district. Note that unlike datasets 1 and 2 that have village level observations, the ASER dataset has district level observations for OOSGs.![image](https://user-images.githubusercontent.com/95386252/144693851-3c6c00f4-c13e-4248-a4ba-2fb45a414bc1.png)
+3.	ASER (aser_data.csv): Collected by ASER in 2018, this dataset has the average OOSGs in villages within a district. Note that unlike datasets 1 and 2 that have village level observations, the ASER dataset has district level observations for OOSGs.
 	
